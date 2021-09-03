@@ -1,2 +1,2 @@
 # Prac1
-Repositorio de prueba
+Yuen Ching Base de Datos ll 2021
