@@ -1,0 +1,10 @@
+C:\Users\nayib\Desktop\Repositorio Git\Prac1\SQLBDPrac1\SQLBDPrac1\bin\Debug\SQLBDPrac1.dacpac
+C:\Users\nayib\Desktop\Repositorio Git\Prac1\SQLBDPrac1\SQLBDPrac1\bin\Debug\SQLBDPrac1.dll
+C:\Users\nayib\Desktop\Repositorio Git\Prac1\SQLBDPrac1\SQLBDPrac1\bin\Debug\SQLBDPrac1.pdb
+C:\Users\nayib\Desktop\Repositorio Git\Prac1\SQLBDPrac1\SQLBDPrac1\obj\Debug\SQLBDPrac1.sqlproj.AssemblyReference.cache
+C:\Users\nayib\Desktop\Repositorio Git\Prac1\SQLBDPrac1\SQLBDPrac1\obj\Debug\Model.xml
+C:\Users\nayib\Desktop\Repositorio Git\Prac1\SQLBDPrac1\SQLBDPrac1\obj\Debug\refactor.xml
+C:\Users\nayib\Desktop\Repositorio Git\Prac1\SQLBDPrac1\SQLBDPrac1\obj\Debug\postdeploy.sql
+C:\Users\nayib\Desktop\Repositorio Git\Prac1\SQLBDPrac1\SQLBDPrac1\obj\Debug\predeploy.sql
+C:\Users\nayib\Desktop\Repositorio Git\Prac1\SQLBDPrac1\SQLBDPrac1\obj\Debug\SQLBDPrac1.dll
+C:\Users\nayib\Desktop\Repositorio Git\Prac1\SQLBDPrac1\SQLBDPrac1\obj\Debug\SQLBDPrac1.pdb
