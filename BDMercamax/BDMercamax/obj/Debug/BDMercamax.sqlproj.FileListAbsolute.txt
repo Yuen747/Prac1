@@ -2,9 +2,9 @@ C:\Users\nayib\Desktop\Repositorio Git\Prac1\BDMercamax\BDMercamax\bin\Debug\BDM
 C:\Users\nayib\Desktop\Repositorio Git\Prac1\BDMercamax\BDMercamax\bin\Debug\BDMercamax.dll
 C:\Users\nayib\Desktop\Repositorio Git\Prac1\BDMercamax\BDMercamax\bin\Debug\BDMercamax.pdb
 C:\Users\nayib\Desktop\Repositorio Git\Prac1\BDMercamax\BDMercamax\obj\Debug\BDMercamax.sqlproj.AssemblyReference.cache
+C:\Users\nayib\Desktop\Repositorio Git\Prac1\BDMercamax\BDMercamax\obj\Debug\BDMercamax.dll
+C:\Users\nayib\Desktop\Repositorio Git\Prac1\BDMercamax\BDMercamax\obj\Debug\BDMercamax.pdb
 C:\Users\nayib\Desktop\Repositorio Git\Prac1\BDMercamax\BDMercamax\obj\Debug\Model.xml
 C:\Users\nayib\Desktop\Repositorio Git\Prac1\BDMercamax\BDMercamax\obj\Debug\refactor.xml
 C:\Users\nayib\Desktop\Repositorio Git\Prac1\BDMercamax\BDMercamax\obj\Debug\postdeploy.sql
 C:\Users\nayib\Desktop\Repositorio Git\Prac1\BDMercamax\BDMercamax\obj\Debug\predeploy.sql
-C:\Users\nayib\Desktop\Repositorio Git\Prac1\BDMercamax\BDMercamax\obj\Debug\BDMercamax.dll
-C:\Users\nayib\Desktop\Repositorio Git\Prac1\BDMercamax\BDMercamax\obj\Debug\BDMercamax.pdb
