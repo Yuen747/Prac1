@@ -1,2 +1,4 @@
 ﻿CREATE VIEW [dbo].[GetCountFacturas]
-	AS SELECT id_factura FROM Facturacion
+	
+	AS 
+	SELECT id_factura FROM Facturacion

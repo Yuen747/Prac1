@@ -1,6 +1,6 @@
 ﻿CREATE PROCEDURE [dbo].[ActualizarPuntos]
-	@param1 int,
-	@param2 int
+	@id int,
+	@n int
 AS
-	SELECT @param1, @param2
+	UPDATE Cliente SET puntos_acumulados = puntos_acumulados+@n WHERE cc_cliente=@id
 RETURN 0
